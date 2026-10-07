@@ -1,0 +1,6 @@
+{
+  "name": "Antojo-Virtual Neiva — Delivery & Gestión POS",
+  "description": "Plataforma integral de delivery gastronómico y gestión operativa de cocina (KDS/POS) para restaurantes en Neiva, Huila.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
